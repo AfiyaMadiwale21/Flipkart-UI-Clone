@@ -1,0 +1,230 @@
+* {
+    margin: 0;
+    border: border-box;
+    text-transform: capitalize;
+}
+
+.navbar {
+    height: 50px;
+    background-color: #2874f0;
+    color: white;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.logo-part {
+    width: 100px;
+    margin-left: 100px;
+}
+
+.logo {
+    background-image: url("https://cdn.prod.website-files.com/6669ece3e0a4908924a3927b/66a8e4e23dc8e05e11846dc6_flipkart%201.png");
+    height: 30px;
+    width: 100px;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.logo-text {
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    margin-bottom: 25px;
+    font-size: small;
+    height: 5px;
+
+}
+
+span {
+    color: yellow;
+}
+
+.nav-search {
+    display: flex;
+    width: 450px;
+    height: 30px;
+    margin-left: 3px;
+}
+
+.nav-search input {
+    width: 100%;
+}
+
+.nav-icon {
+    color: #2874f0;
+    width: 35px;
+    height: auto;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-login {
+    height: 30px;
+    width: 90px;
+    background-color: white;
+    color: #2874f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 4px;
+}
+
+.border {
+    border: 1px solid transparent;
+}
+
+.border:hover {
+    border: 1px solid white;
+}
+
+.seller {
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+.more {
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+.nav-cart {
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+.menubar {
+    height: 150px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.img {
+    height: 80px;
+    width: 95px;
+    background-size: cover;
+}
+
+.img:hover {
+    border: 1px solid black;
+}
+
+.hero-section {
+    background-image: url("https://www.dealnloot.com/wp-content/uploads/2021/09/flipkart-flight-fly600.jpg");
+    background-size: contain;
+    height: 260px;
+    width: 100%;
+}
+
+p {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.item-section {
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.item {
+    height: 170px;
+    width: 170px;
+    background-color: white;
+}
+
+.item-img {
+    height: 170px;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.itemheadName {
+    font-size: 30px;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+.view {
+    background-color: #2874f0;
+    height: 40px;
+    color: white;
+    font-size: 25px;
+    margin: 20px 25px 0px 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.view:hover {
+    background-color: #172337;
+}
+
+.item-description {
+    font-size: large;
+}
+
+.buy {
+    color: rgb(70, 216, 70);
+    margin-top: 0;
+    font-size: small;
+}
+
+.buy:hover {
+    font-size: medium;
+}
+
+.line {
+    width: 100%;
+    border: 6px solid rgba(213, 207, 207, 0.617);
+}
+
+.foot-panel {
+    height: 400px;
+    background-color: #172337;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-between;
+}
+
+ul p {
+    color: rgb(128, 128, 128);
+    font-weight: 200;
+    margin-top: 15px;
+}
+
+ul a {
+    display: block;
+    margin-top: 15px;
+    font-size: small;
+}
+
+a:hover {
+    color: gold;
+}
+
+.foot-panel1 {
+    color: white;
+    background-color: #172337;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    font-size: small;
+}
+
+.foot-img {
+    height: 15px;
+    width: 400px;
+    background-size: cover;
+    margin-bottom: 3px;
+}
