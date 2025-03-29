@@ -14,5 +14,5 @@ Showcasing product categories, navigation bar, and footer with multiple links.
 
 ---
 
-![Homepage Screenshot](images/homepage.png)
+![Homepage Screenshot](project.png)
 
