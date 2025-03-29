@@ -12,7 +12,3 @@ Showcasing product categories, navigation bar, and footer with multiple links.
 ✅ Sections featuring different product categories like sports, electronics, and fashion.  
 ✅ Informative footer with company details and contact information.  
 
----
-
-![Homepage Screenshot](project.png)
-
